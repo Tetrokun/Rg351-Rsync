@@ -1,0 +1,12 @@
+{
+    "server": {
+      "ip": "192.168.1.200",
+      "path": "/mnt/user/BLT/Games/Emulation/saves/",
+      "user": "root"
+    },
+    "client": {
+      "ip": "192.168.1.234",
+      "path": "/home/ark/.config/retroarch/saves/",
+      "user": "big_boss"
+    }
+  }
